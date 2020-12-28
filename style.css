@@ -10,6 +10,7 @@
 body{
     margin: 0px;
     background-color: var(--pColor);
+    padding-bottom: 20px;
     
 }
 .img{
@@ -34,12 +35,16 @@ header{
 
 .textBox{
     font-size: 1.5rem;
+    padding: 5px 0px 0px 5px;
 }
-
-#btn{
+button{
+    border-radius: 6px;
+    font-size: 1rem;
+    padding: 5px;
     text-align: center;
     margin: auto;
 }
+
 .outbox{
     text-align: center;
     margin: auto;
