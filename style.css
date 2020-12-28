@@ -1,0 +1,51 @@
+
+
+
+
+:root{
+    --pColor: #a9d5a2;
+    --sColor: #5b8b67;
+}
+
+body{
+    margin: 0px;
+    background-color: var(--pColor);
+    
+}
+.img{
+    text-align: center;
+    margin: auto;
+    padding-left: 4rem;
+}
+
+header{
+    text-align: center;
+    margin: auto;
+    background-color: var(--sColor);
+    font-size: 2rem;
+    padding: .5rem;
+}
+
+.textdiv{
+    padding-top: 2rem;
+    text-align: center;
+    margin: auto;
+}
+
+.textBox{
+    font-size: 1.5rem;
+}
+
+#btn{
+    text-align: center;
+    margin: auto;
+}
+.outbox{
+    text-align: center;
+    margin: auto;
+    border: 1px solid black;
+    height: 30px;
+    width: 200px;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+}
